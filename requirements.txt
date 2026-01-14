@@ -1,0 +1,15 @@
+imageio[ffmpeg]
+numpy<2.0.0
+scikit-learn
+torchmetrics[image]
+opencv-python
+tyro>=0.8.8
+Pillow
+tensorboard
+tensorly
+pyyaml
+matplotlib
+splines
+open3d
+typing_extensions
+plotly
