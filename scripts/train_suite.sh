@@ -1,6 +1,6 @@
 #!/bin/bash
 SCENE_DIR="./data/OmniFisheye_plus"
-SCENE_LIST="loft suite"
+SCENE_LIST="suite"
 CAP_MAX=1000000
 
 for SCENE in $SCENE_LIST; do
