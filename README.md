@@ -60,7 +60,7 @@ git clone https://huggingface.co/datasets/SiminKou/OmniFisheye+.git
 ```
 **Example Scene Provided in This Repository**
 
-For your convenience in testing, we have also uploaded two example scenes, _**Loft**_ and _**Suite**_, which allow you to directly run ``bash scripts/train_example.sh`` to obtain synthesized results along with the corresponding models.
+For your convenience in testing, we have also uploaded an example scene, _**Suite**_, which allows you to directly run ``bash scripts/train_suite.sh`` to obtain synthesized results along with the corresponding models.
 
 **Dataset Composition**
 ```text
