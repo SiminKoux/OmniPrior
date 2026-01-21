@@ -156,7 +156,7 @@ bash scripts/train_all.sh
 
 This executes the complete training pipeline with all components enabled.
 
-## Results Composition (include all operations)
+## Results Composition
 ```text
 results/
 ├── scene1/
