@@ -54,9 +54,9 @@ pip install -r requirements.txt
 ```
 
 ## Dataset
-You can also download the dataset from [Hugging Face](https://huggingface.co/datasets/SiminKou/OmniFisheye+) using:
+You can also download the dataset from [Hugging Face](https://huggingface.co/datasets/SiminKou/OmniFisheyePlus) using:
 ```bash
-git clone https://huggingface.co/datasets/SiminKou/OmniFisheye+.git
+git clone https://huggingface.co/datasets/SiminKou/OmniFisheyePlus.git
 ```
 **Example Scene Provided in This Repository**
 
