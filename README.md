@@ -1,5 +1,5 @@
 # OmniPrior
-This repository is the official PyTorch implementation of [OmniPrior](https://ieeexplore.ieee.org/document/xxx), which was accepted by TVCG. You can watch our [video demo](https://vimeo.com/1198984552?share=copy&fl=sv&fe=ci) here.
+This repository is the official PyTorch implementation of [OmniPrior](https://ieeexplore.ieee.org/abstract/document/11563908), which was accepted by TVCG. You can watch our [video demo](https://vimeo.com/1198984552?share=copy&fl=sv&fe=ci) here.
 
 ## Overview
 
