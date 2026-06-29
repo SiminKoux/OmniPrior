@@ -338,7 +338,3 @@ Cite as below if you find this paper, dataset, and repository helpful to you:
 
 ## Acknowledgement
 Our code is hugely influenced by [gsplat](https://github.com/nerfstudio-project/gsplat?tab=readme-ov-file), [4D-GS](https://github.com/hustvl/4DGaussians), [3DGUT](https://github.com/nv-tlabs/3dgrut), and many other projects. We would like to acknowledge them for making great code available to us.
-
-## Copyright and license
-
-Code and documentation copyright the authors. Code released under the [MIT License](https://reponame/blob/master/LICENSE).
